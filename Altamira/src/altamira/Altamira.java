@@ -14,8 +14,10 @@ public class Altamira {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-System.out.println("trabalho Altamira");
+        public static void main(String[] args) {
+        System.out.println("trabalho Altamira");
+        System.out.println("NOVA LINHA DO TRABALHO");
+        
     }
     
 }
