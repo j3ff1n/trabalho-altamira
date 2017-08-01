@@ -17,6 +17,8 @@ public class Altamira {
         public static void main(String[] args) {
         System.out.println("trabalho Altamira");
         System.out.println("NOVA LINHA DO TRABALHO");
+         System.out.println("NOVA LINHA DO TRABALHO 02");
+        
         
     }
     
